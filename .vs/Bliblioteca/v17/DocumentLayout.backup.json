@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\bliblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Bliblioteca\\ControlAutor.cs",
               "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\ControlAutor.cs",
               "RelativeToolTip": "Bliblioteca\\ControlAutor.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T17:19:13.077Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Bliblioteca\\DAOAutor.cs",
               "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\DAOAutor.cs",
               "RelativeToolTip": "Bliblioteca\\DAOAutor.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAqwIMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T16:59:27.113Z",
               "EditorCaption": ""

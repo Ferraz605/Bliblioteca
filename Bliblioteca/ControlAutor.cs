@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZstdSharp.Unsafe;
 
 namespace Bliblioteca
 {
@@ -73,7 +74,47 @@ namespace Bliblioteca
                         Console.WriteLine(this.autor.ConsultarPorCodigo(codigo));
                         break;
                     case 4:
-                        Console.WriteLine("Excluir Autor");
+                        Console.WriteLine("Atualizar Autor");
+
+                        Console.WriteLine("Informe o codigo do autor que deseja atualizar");
+                        codigo = Convert.ToInt32(Console.ReadLine());
+
+                        // criar um menu para atualização
+                        Console.WriteLine("Escolha qual campo deseja atualizar:\n\n" +
+                            "\n1. Nome" +
+                            "\n2. Genero" +
+                            "\n3. Endereço");
+
+                        int opcaocampo = Convert.ToInt32(Console.ReadLine());
+                        string campo = "";
+
+                        // escolha
+                        switch (opcaocampo)
+                        {
+                            case 1:
+                                campo = "nome";
+                            break;
+                            case 2:
+                                campo = "genero";
+                            break;
+                            case 3:
+                                campo = "endereco";
+                            break;
+                            default:
+                                Console.WriteLine("Não é possivel atualizar! Escolha um campo valido");
+                            break;
+                        } // fim do escolha caso
+
+                        // pedir o novo dado
+                        Console.WriteLine($"Informe o {campo}");
+                        string novodado = Console.ReadLine();
+                        Console.WriteLine(this.autor.Atualizar(codigo, campo, novodado));
+                        break;
+                    case 5:
+                        Console.WriteLine("Excluir autor");
+                        Console.WriteLine("Informe o autor que deseja excluir: ");
+                        codigo = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine(this.autor.Deletar(codigo));
                         break;
                     default:
                         Console.WriteLine("Codigo informado invalido!");
