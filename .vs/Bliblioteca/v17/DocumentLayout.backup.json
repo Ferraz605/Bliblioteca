@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\bliblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\bliblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|c:\\users\\joao.asferraz\\source\\repos\\bliblioteca\\bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A0587C-24D5-409D-8815-E1FE5B23DBD7}|Bliblioteca\\Bliblioteca.csproj|solutionrelative:bliblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Consultar.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Consultar.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Consultar.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Consultar.cs",
+              "RelativeToolTip": "Bliblioteca\\Consultar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:33:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consultar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Consultar.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Consultar.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Consultar.cs [Design]",
+              "RelativeToolTip": "Bliblioteca\\Consultar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:31:32.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Cadastrar.cs",
+              "RelativeToolTip": "Bliblioteca\\Cadastrar.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:47:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "Bliblioteca\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:44:44.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Menu.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Menu.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Menu.cs",
+              "RelativeToolTip": "Bliblioteca\\Menu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:38:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Menu.cs",
+              "RelativeDocumentMoniker": "Bliblioteca\\Menu.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Menu.cs [Design]",
+              "RelativeToolTip": "Bliblioteca\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:09:45.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ControlAutor.cs",
               "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\ControlAutor.cs",
               "RelativeDocumentMoniker": "Bliblioteca\\ControlAutor.cs",
               "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\ControlAutor.cs",
               "RelativeToolTip": "Bliblioteca\\ControlAutor.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T17:19:13.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DAOAutor.cs",
               "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\DAOAutor.cs",
               "RelativeDocumentMoniker": "Bliblioteca\\DAOAutor.cs",
               "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\DAOAutor.cs",
               "RelativeToolTip": "Bliblioteca\\DAOAutor.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwGsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T16:59:27.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Bliblioteca\\Program.cs",
               "ToolTip": "C:\\Users\\joao.asferraz\\source\\repos\\Bliblioteca\\Bliblioteca\\Program.cs",
               "RelativeToolTip": "Bliblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T16:55:29.504Z",
               "EditorCaption": ""

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient; // importando os comandos de conexão com o banco
+using System.Windows.Forms; // Importando estrutura de telas
+
 namespace Bliblioteca 
 {
     class DAOAutor
@@ -26,9 +28,9 @@ namespace Bliblioteca
             try
             {
                 this.conexao.Open(); // Abrir a conexão
-                Console.WriteLine("Conectado com Sucesso!");
+                MessageBox.Show("Conectado com Sucesso!");
             }catch(Exception erro ){
-                Console.WriteLine($"Algo deu errado!\n\n {erro}");
+                MessageBox.Show($"Algo deu errado!\n\n {erro}");
                 this.conexao.Close(); // Fechar a conexão com o BD
             }// Fim do try e catch
         } // FIM DO CONSTRUTOR
@@ -43,12 +45,12 @@ namespace Bliblioteca
                 // inserir comando no banco[
                 MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
                 string resultado = "" + sql.ExecuteNonQuery(); // executo com comando
-                Console.WriteLine($"Inserido Com sucesso!\n\n {resultado}");
+                MessageBox.Show($"Inserido Com sucesso!\n\n {resultado}");
             }
             catch (Exception erro)
             {
 
-                Console.WriteLine($"Algo de errado {erro}");
+                MessageBox.Show($"Algo de errado {erro}");
             }
         }// FIm do INSERIR
 

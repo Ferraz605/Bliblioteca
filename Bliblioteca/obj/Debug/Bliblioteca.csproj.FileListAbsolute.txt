@@ -37,3 +37,8 @@ C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Blibliot.2
 C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.exe
 C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.pdb
 C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.exe.config
+C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.Cadastrar.resources
+C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.Menu.resources
+C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.Properties.Resources.resources
+C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.csproj.GenerateResource.cache
+C:\Users\joao.asferraz\source\repos\Bliblioteca\Bliblioteca\obj\Debug\Bliblioteca.Consultar.resources
